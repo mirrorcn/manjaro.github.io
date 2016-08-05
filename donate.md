@@ -33,31 +33,36 @@ On the transfer form the word **donation** must be mentioned in the **purpose** 
 <tbody>
 <tr>
 <th style="text-align: left;">Account Holder:</th>
-<td style="text-align: left;">Roland Singer</td>
+<td style="text-align: left;">Hanns Philip Müller</td>
 </tr>
 <tr>
 <th style="text-align: left;">Account Number:</th>
-<td style="text-align: left;">695275708</td>
+<td style="text-align: left;">1050676905</td>
 </tr>
 <tr>
 <th style="text-align: left;">Bank Identification Number:</th>
-<td style="text-align: left;">60010070</td>
+<td style="text-align: left;">12030000</td>
 </tr>
 <tr>
 <th style="text-align: left;">Bank:</th>
-<td style="text-align: left;">Postbank</td>
+<td style="text-align: left;">DKB</td>
 </tr>
 <tr>
 <th style="text-align: left;">BIC:</th>
-<td style="text-align: left;">PBNKDEFF</td>
+<td style="text-align: left;">BYLADEM1001</td>
 </tr>
 <tr>
 <th style="text-align: left;">IBAN:</th>
-<td style="text-align: left;">DE68600100700695275708</td>
+<td style="text-align: left;">DE90120300001050676905</td>
 </tr>
 </tbody>
 </table>
 
 ## Paypal
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_s-xclick" /> <input type="hidden" name="hosted_button_id" value="CMZENCJDAF2TL" /> <input type="image" alt="PayPal - The safer, easier way to pay online!" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" /> <img alt="" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1" border="0" /></form>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="P5T6ZGPVJD9JN">
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
+</form>
