@@ -3,7 +3,7 @@ layout: post
 title: re-designed homepage online
 ---
 
-We are proud to present our freshly [**re-designed webpages**](https://manjaro.org/news/
+We are proud to present our freshly [**re-designed webpages**](https://manjaro.org/news/)
 
 <img src="http://manjaro.github.io/images/homepage_new.jpg">
 
