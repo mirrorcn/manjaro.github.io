@@ -33,19 +33,19 @@ Both 32 and 64 bit versions of Manjaro are available in the following flavours (
 
 ## Cinnamon
 
-  - [manjaro-cinnamon 16.06.1 (64 bit)](https://sourceforge.net/projects/manjarolinux/files/community/Cinnamon/16.06.1/x86_64/manjaro-cinnamon-16.06.1-x86_64.iso)
-   `SHA1SUM: 0fb9327cc5ff23d9d01b7dcf1975e00bccfa3d36`
-  - [manjaro-cinnamon 16.06.1 (32 bit)](https://sourceforge.net/projects/manjarolinux/files/community/Cinnamon/16.06.1/i686/manjaro-cinnamon-16.06.1-i686.iso)
-   `SHA1SUM: 86f79c68dd45c23fd72a4bedd8359f948a30e82f`  
-[**Details**](https://forum.manjaro.org/t/manjaro-cinnamon-16-06-16-06-1)
+  - [manjaro-cinnamon 16.08 (64 bit)](https://sourceforge.net/projects/manjarolinux/files/community/Cinnamon/16.08/x86_64/manjaro-cinnamon-16.08-x86_64.iso)
+   `MD5SUM: f70724c1d80b4d1fbf81b87205afdaf9`
+  - [manjaro-cinnamon 16.08 (32 bit)](https://sourceforge.net/projects/manjarolinux/files/community/Cinnamon/16.08/i686/manjaro-cinnamon-16.08-i686.iso)
+   `MD5SUM: f8615980f1d25208b4d741705cd3ceb7`  
+[**Details**](https://forum.manjaro.org/t/manjaro-cinnamon-16-08/8435)
 
 ## Deepin
 
-  - [manjaro-deepin 16.06.1 (64 bit)](https://sourceforge.net/projects/manjarolinux/files/community/Deepin/16.06.1/x86_64/manjaro-deepin-16.06.1-x86_64.iso)
-   `SHA1SUM: 027c2950b23b80510a97611b18ef704137f7ccd7`
-  - [manjaro-deepin 16.06.1 (32 bit)](https://sourceforge.net/projects/manjarolinux/files/community/Deepin/16.06.1/i686/manjaro-deepin-16.06.1-i686.iso)
-   `SHA1SUM: f98f450dc4a66bfec75841201d23c49cc76f9880`  
-[**Details**](https://forum.manjaro.org/t/manjaro-deepin-16-06-16-06-1)
+  - [manjaro-deepin 16.08 (64 bit)](https://sourceforge.net/projects/manjarolinux/files/community/Deepin/16.08/x86_64/manjaro-deepin-16.08-x86_64.iso)
+   `MD5SUM: 626cf62db0d6d141a9c253675bfe2352`
+  - [manjaro-deepin 16.08 (32 bit)](https://sourceforge.net/projects/manjarolinux/files/community/Deepin/16.08/i686/manjaro-deepin-16.08-i686.iso)
+   `MD5SUM: 781611c90d3bbf9903151a3c9bc7018f`  
+[**Details**](https://forum.manjaro.org/t/manjaro-deepin-16-08-stable-branch/9067)
 
 ## Enlightenment
 
@@ -64,11 +64,11 @@ Both 32 and 64 bit versions of Manjaro are available in the following flavours (
 
 ## i3
 
-  - [manjaro-i3 16.06.1 (64 bit)](https://sourceforge.net/projects/manjarolinux/files/community/i3/16.06.1/x86_64/manjaro-i3-16.06.1-x86_64.iso)
-   `SHA1SUM: be35af52cbb043c8d834a6e6c5e180b21026838f`
-  - [manjaro-i3 16.06.1 (32 bit)](https://sourceforge.net/projects/manjarolinux/files/community/i3/16.06.1/i686/manjaro-i3-16.06.1-i686.iso)
-   `SHA1SUM: 36e081fc82485272b4714181aef4fd49fd2e3e10`  
-[**Details**](https://forum.manjaro.org/t/manjaro-i3-16-06-16-06-1)
+  - [manjaro-i3 16.08 (64 bit)](https://sourceforge.net/projects/manjarolinux/files/community/i3/16.08/x86_64/manjaro-i3-16.08-x86_64.iso)
+   `MD5SUM: 1b305678059a987e3b46d24b601cacd7`
+  - [manjaro-i3 16.08 (32 bit)](https://sourceforge.net/projects/manjarolinux/files/community/i3/16.08/i686/manjaro-i3-16.08-i686.iso)
+   `MD5SUM: b3eb8efcabd05d8a6e9f358b8248cca2`  
+[**Details**](https://forum.manjaro.org/t/manjaro-i3-16-08/8436)
 
 ## JWM
 
