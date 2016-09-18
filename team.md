@@ -55,4 +55,4 @@ published: true
 * **Lane Wiscombe (anex)** Manjaro Artwork, KDE Team: KDE5 Edition Maintainer, MATE and Openbox Editions Maintainer
 
 ## Acknowledgements
-The awesome community on our [forum](https://forum.manjaro.org) and **#manjaro** IRC channel
+The awesome community on our [forum](https://forum.manjaro.org) and [#manjaro](irc://chat.freenode.net/#manjaro) IRC channel on Freenode.
