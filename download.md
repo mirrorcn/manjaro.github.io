@@ -5,9 +5,7 @@ permalink: /download/
 ---
 
 
-Manjaro official Download page has moved to our new site. Please visit [**mnjaro.org**](https://manjaro.org/community-editions/).
-
-Welcome to the official Manjaro Linux ISO-image page. Here you will find the latest releases for download as ISO images.
+Manjaro's official Download page has moved to our new site. Please visit [**manjaro.org**](https://manjaro.org/community-editions/).
 
  ![XFCE]({{ site.baseurl }}/images/desktop-environment-xfce.png "XFCE edition")
  ![KDE]({{ site.baseurl }}/images/desktop-environment-kde.png "KDE edition")
