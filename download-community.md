@@ -5,7 +5,9 @@ permalink: /download-community/
 ---
 
 
-The official Download page for the currently available Community Editions has moved. Please visit Manjaro's new homepage [**here**](https://manjaro.org/community-editions/).
+The official Download page for the currently available Community Editions has moved.  
+  
+Please visit Manjaro's new homepage [**here**](https://manjaro.org/community-editions/).
 
  ![XFCE]({{ site.baseurl }}/images/desktop-environment-xfce.png "XFCE edition")
  ![KDE]({{ site.baseurl }}/images/desktop-environment-kde.png "KDE edition")
