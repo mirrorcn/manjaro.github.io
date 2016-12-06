@@ -5,7 +5,9 @@ permalink: /download/
 ---
 
 
-Manjaro's official Download page has moved to our new site. Please visit [**manjaro.org**](https://manjaro.org/community-editions/).
+Manjaro's official Download page has moved to our new site.
+Please visit [**manjaro.org**](https://manjaro.org/community-editions/).
+
 
  ![XFCE]({{ site.baseurl }}/images/desktop-environment-xfce.png "XFCE edition")
  ![KDE]({{ site.baseurl }}/images/desktop-environment-kde.png "KDE edition")
@@ -36,7 +38,7 @@ The NET edition of Manjaro provides a base installation without a pre-installed 
 
 ### Other flavours
 
-Some additional Desktop Environment and preconfigured Window Managers are available on our [**Community Editions**](https://manjaro.org/community-editions/).
+Some additional Desktop Environment and preconfigured Window Managers are available with our [**Community Editions**](https://manjaro.org/community-editions/).
 
 ## How to verify our install medias
 
