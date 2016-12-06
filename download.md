@@ -5,10 +5,10 @@ permalink: /download/
 ---
 
 
-Manjaro's official Download page has moved to our new site.
+Manjaro's official Download page has moved to our new site.  
 Please visit [**manjaro.org**](https://manjaro.org/community-editions/).
-
-
+  
+  
  ![XFCE]({{ site.baseurl }}/images/desktop-environment-xfce.png "XFCE edition")
  ![KDE]({{ site.baseurl }}/images/desktop-environment-kde.png "KDE edition")
  ![NET]({{ site.baseurl }}/images/net-edition.png "Net edition")
@@ -20,8 +20,8 @@ and more...
 <iframe width="640" height="360" src="https://www.youtube.com/embed/H4DKR5TeorQ" frameborder="0" allowfullscreen></iframe>
 
 Both 32 and 64 bit versions of Manjaro are available in the following flavours (i.e. with the following desktop environments pre-installed):
-
-
+  
+  
 ## XFCE
 
   - [**get Manjaro**](https://manjaro.org/get-manjaro/)
