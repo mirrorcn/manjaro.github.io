@@ -22,7 +22,7 @@ The donations will be used to mainly cover the operating costs of the webservers
 
 - No rights or privileges are associated with a deposit.
 - All donations are anonymous. Any sender details are not published or shared.
-- A tax-related donation receipt can not be issued because Manjaro is not a commercial and registered organization.
+- A tax-related donation receipt can not be issued because Manjaro is not a commercial nor registered organization.
 - Legally, it is a private donation.
 
 On the transfer form the word **donation** must be mentioned in the **purpose** area. Who also indicates his email address, receives on request a confirmation of receipt.
