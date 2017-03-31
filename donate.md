@@ -13,16 +13,16 @@ Many thanks!
  
 ## Use of Donations
 
-In order to keep Manjaro.org independently, free from advertising and to be able to operate the webpage in normal speed, we would appreciate your financial support.
+In order to keep Manjaro independently, free from advertising and to be able to operate the webpage in normal speed, we would appreciate your financial support.
 
-The donations will mainly cover the operating costs of the webserver. Any surplus may be for special activities (such as attending conferences and trade shows) used by Manjaro.org
+The donations will be used to mainly cover the operating costs of the webservers, obtain and replace hardware, pay for general hardware-related utilities such as network connectivity and maintain infrastructure. Any surplus may be for special activities (such as attending conferences and trade shows) within the development team of Manjaro.
 
  
 ## Conditions
 
 - No rights or privileges are associated with a deposit.
 - All donations are anonymous. Any sender details are not published or shared.
-- A tax-related donation receipt can not be issued because Manjaro.org is not a commercial and registered organization.
+- A tax-related donation receipt can not be issued because Manjaro is not a commercial and registered organization.
 - Legally, it is a private donation.
 
 On the transfer form the word **donation** must be mentioned in the **purpose** area. Who also indicates his email address, receives on request a confirmation of receipt.
